@@ -1,1 +1,1 @@
-hi whats up
+print("hi")
